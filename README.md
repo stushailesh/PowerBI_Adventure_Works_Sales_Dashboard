@@ -35,11 +35,11 @@ The primary objective of this project is to:
 | Total Cost | 14.46M |
 
 # 📈 Dashboard Pages
-## Customer Analysis_1
+## Category Analysis_1
 ![Customer Analysis_1](https://github.com/stushailesh/PowerBI_Adventure_Works_Sales_Dashboard/blob/main/Category_analysis_1.png)
 <br>
 <br>
-## Customer Analysis_2
+## Category Analysis_2
 ![Customer Analysis_2](https://github.com/stushailesh/PowerBI_Adventure_Works_Sales_Dashboard/blob/main/Category_analysis_2.png)
 Helps management optimize category-level sales strategies
 <br>
