@@ -1,4 +1,4 @@
-# PowerBI_Adventure_Works_Sales_Dashboard
+# PowerBI_Adventure_Works_Sales_Report
 ## Power BI Project
 ## Project Overview
 This Power BI project analyzes Adventure Works sales data to provide actionable business insights into sales performance, customer behavior, product profitability, and return trends.
